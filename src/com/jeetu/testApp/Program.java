@@ -2,8 +2,8 @@ package com.jeetu.testApp;
 
 import java.util.ArrayList;
 
-import com.jeetu.testApp.amazon.ReverseChar;
-import com.jeetu.testApp.amazon.UniqueString;
+import com.jeetu.testApp.amazon.array_string.ReverseChar;
+import com.jeetu.testApp.amazon.array_string.UniqueString;
 
 
 

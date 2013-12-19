@@ -1,4 +1,4 @@
-package com.jeetu.testApp.amazon;
+package com.jeetu.testApp.amazon.array_string;
 
 public class StringPermutation {
 	
